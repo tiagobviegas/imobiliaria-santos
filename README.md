@@ -8,6 +8,7 @@ Development of a landing page dedicated to uso elements like ordered lists and n
 
 ## Progresso
 
+- [X] Construção da estrutura HTML com os elementos básicos do projeto.
 - [ ] Todas divisões e elementos deverão estar centralizados na página.
 - [ ] Sessão 1 - Cabeçalho com logo e links.
 - [ ] Sessão 2 - Imagem de boas-vindas e espaçamento externo.
@@ -19,6 +20,7 @@ Development of a landing page dedicated to uso elements like ordered lists and n
 
 ## Work progress
 
+- [X] HTML basis containing all basic project elements.
 - [ ] All divisions and elements should be align on center page.
 - [ ] Section 1 - Header with logo and hiperlinks
 - [ ] Section 2 - Welcome image and margin.
