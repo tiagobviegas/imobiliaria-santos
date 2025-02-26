@@ -13,8 +13,8 @@ Development of a landing page dedicated to uso elements like ordered lists and n
 - [X] Todos os estilos comuns dos elementos definidos.
 - [X] Sessão 1 - Cabeçalho com logo e links.
 - [X] Sessão 2 - Imagem de boas-vindas e espaçamento externo.
-- [ ] Sessão 3 - Título, subtítulo, imagem e parágrafo com destaques.
-- [ ] Sessão 4 - Subtítulo, parágrafo e lista não ordenada de itens.
+- [X] Sessão 3 - Título, subtítulo, imagem e parágrafo com destaques.
+- [X] Sessão 4 - Subtítulo, parágrafo e lista não ordenada de itens.
 - [ ] Sessão 5 - Subtítulo , imagem e parágrafo com destaque e link.
 - [ ] Sessão 6 - Subtítulo, iframe do Google maps, parágrafo com destaque e cor de fundo e uma lista não ordenada de links.
 - [ ] Projeto concluído.
@@ -26,8 +26,8 @@ Development of a landing page dedicated to uso elements like ordered lists and n
 - [X] All common elements style defined.
 - [X] Section 1 - Header with logo and hiperlinks
 - [X] Section 2 - Welcome image and margin.
-- [ ] Section 3 - Title, subtitle, image and paragraph with highlights.
-- [ ] Section 4 - Subtitle, paragraph and a non-ordered items list.
+- [X] Section 3 - Title, subtitle, image and paragraph with highlights.
+- [X] Section 4 - Subtitle, paragraph and a non-ordered items list.
 - [ ] Section 5 - Subtitle, image and paragraph with highlights and hiperlinks.
 - [ ] Section 6 - Subtitle, Google Maps iframe, a paragraph with highlights and background-color, and a non-ordered list hiperlinks items.
 - [ ] Project concluded.
