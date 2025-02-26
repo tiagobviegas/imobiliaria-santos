@@ -43,7 +43,7 @@ p {
   padding-top: 0;
 }
 
-span {
+span, #corretores span {
   font-weight: bold;
 }
 
@@ -56,14 +56,14 @@ h2 {
   color: #1c81c0;
   margin-bottom: 5px;
   margin-top: 0;
-  font-weight: 100;
+  font-weight: unset ;
 }
 
-#sobre img {
+#sobre img, #corretores img {
   width: 450px;
 }
 
-.texto-azul {
+.texto-azul, #corretores span {
   color: #1d80c1;
   font-weight: bold;
 }
@@ -102,4 +102,13 @@ h2 {
   line-height: 42px;
   text-align: left;
   font-size: 22px;
+}
+
+#corretores h2 {
+  color: #1c81c0;
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 28px;
+  line-height: 42px;
+  font-weight: bold;
 }
