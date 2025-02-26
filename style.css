@@ -15,3 +15,25 @@ p {
   font-size: 18px;
   line-height: 28px;
 }
+
+#cabecalho {
+  background-color: #afddfb;
+}
+
+#cabecalho img {
+  width: 150px;
+}
+
+#cabecalho p {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+#cabecalho p a {
+  font-size: 18px;
+  color: #1d1d1d;
+  border-bottom: 2px solid #1d1d1d;
+  text-decoration: none;
+  margin: 0 10px;
+}
